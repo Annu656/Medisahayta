@@ -6,3 +6,5 @@ in-out-7-block/: This directory holds the blockchain-related code, which appears
 in-out-7-fe/: This directory encompasses the front-end code, which is written in Angular. Angular is a popular framework for building web applications. The code here likely comprises user interface components, client-side logic, and interactions with backend services through APIs.
 
 Each directory should have a README file (e.g., -README.md) providing further details and instructions specific to that part of the project. These README files would likely include information on how to set up the environment, install dependencies, run the code, and any other relevant instructions for developers contributing to or using each part of the project.
+
+The app is available at Medical Blocks
